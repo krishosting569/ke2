@@ -172,7 +172,7 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
     const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
     const menu = './media/menu.jpg'
     const valor = './thumbnail.jpg'
-    let url = 'https://telegra.ph/file/35ab1cb0d5d4ff5c836f9.jpg'
+    let url = 'https://telegra.ph/file/9ece00938d66e45718679.jpg'
     let flaa = pickRandom(global.flaaaaa)
     const ultah = new Date('November 4 2022 00:00:01')
     const sekarat = new Date().getTime() 
@@ -194,7 +194,7 @@ contextInfo: { externalAdReply :{ showAdAttribution: true,
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `⚘ ᴄʀᴇᴀᴛᴇ by ᴹᴿ᭄ KrisHosting`,          previewType: 0,
                         thumbnail: await (await fetch(giflogo2)).buffer(),
-                   'https://youtu.be/PeLEpmoiO4U'
+                        mediaUrl: 'https://youtu.be/PeLEpmoiO4U'
                         
                       }}
 })
