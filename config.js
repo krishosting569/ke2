@@ -27,11 +27,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6288279268363'
+global.sig = 'https://instagram.com/krishosting'
+global.syt = 'https://youtu.be/PeLEpmoiO4U'
+global.sgh = 'https://github.com/krishosting'
+global.sgc = 'https://chat.whatsapp.com/KeyflNVrBsN6ctjfevI3n0'
+global.swa = 'wa.me/6285786211623'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -101,18 +101,18 @@ global.wm2 = 'ᴹᴿ᭄ Kris Hosting ×፝֟͜×'
 global.wm3 = 'KrisBotz-MDラ | By ᴹᴿ᭄ Kris Hosting ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
+global.titlebot = `KrisBotz | ʙʏ ${global.nameown}`
 global.author = 'ᴹᴿ᭄ Kris Hosting ×፝֟͜×' 
 global.packname = 'Kris Hosting ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
-global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
-global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
-global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
+global.thumb = 'https://telegra.ph/file/9ece00938d66e45718679.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/9ece00938d66e45718679.jpg'
+global.giflogo = 'https://telegra.ph/file/35ab1cb0d5d4ff5c836f9.jpg'
+global.giflogo2 = 'https://telegra.ph/file/9ece00938d66e45718679.jpg'
+global.thumbs = ['https://telegra.ph/file/9ece00938d66e45718679.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
