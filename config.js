@@ -122,7 +122,7 @@ global.intro = 'https://telegra.ph/file/9ece00938d66e45718679.jpg'
 global.nameowner = 'ᴹᴿ᭄ Kris Hosting ×፝֟͜×'
 global.umurowner = '22'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6288279268363'
+global.nomorowner = 'wa.me/6285786211623'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
