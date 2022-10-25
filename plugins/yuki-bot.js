@@ -7,13 +7,13 @@ let handler = async (m, { conn, command, text }) => {
   let pp = await conn.profilePictureUrl(who, 'image').catch((_) => "https://telegra.ph/file/24fa902ead26340f3df2c.png")
 await conn.sendButton(m.chat, `Halo juga kak ${name} Ada Yang ${await conn.getName(conn.user.jid)} Bisa Bantu?\n`,wm + '\n\n' + botdate, giflogo2, [['MENU','.menu']], m, {
 contextInfo: { externalAdReply :{
-                        mediaUrl: 'https://tiktok.com/@krishosting',
+                        mediaUrl: 'https://tiktok.com/@raraharsita2',
                         mediaType: 2,
                         description: 'anu',
                         title: global.titlebot,
                         body: '⚘ ᴄʀᴇᴀᴛᴇ ʙʏ Kris Hosting',          previewType: 0,
                         thumbnail: await (await fetch(pp)).buffer(),
-                        sourceUrl: 'https://https://youtu.be/PeLEpmoiO4U'
+                        sourceUrl: 'https://youtu.be/PeLEpmoiO4U'
                       }}
 })
 }
