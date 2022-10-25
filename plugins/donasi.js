@@ -14,7 +14,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┏━ꕥ〔 *Donasi • Dana* 〕ꕥ━⬣
 ┃✾ Gopay  [0882007324217]
 ┃✾ Dana  [0882007324217]
-┃✾ Saweria  [https://saweria.co/raraharsita2]
+┃✾ Saweria  [https://saweria.co/krishosting]
 ┗━━━━ꕥ
 ┏━━ꕥ〔 *NOTE* 〕ꕥ━⬣
 ┃ Ingin donasi? Wa.me/6285786211623
@@ -25,7 +25,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 `.trim(), wm, [['Owner',`/owner`]],m) // Tambah sendiri kalo mau
 conn.sendFile(m.chat, vn, 'haori.mp3', null, m, true, {
 type: 'audioMessage', 
-ptt: true, contextInfo:{ externalAdReply: { title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`, body: `Follow Tiktok My Bestie`, sourceUrl: 'https://www.tiktok.com/@krishosting', thumbnail: await (await fetch('https://i.ibb.co/jfZVKmC/babi2.jpg')).buffer(),}} 
+ptt: true, contextInfo:{ externalAdReply: { title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`, body: `Follow Tiktok My Bestie`, sourceUrl: 'https://www.tiktok.com/@krishosting', thumbnail: await (await fetch('https://telegra.ph/file/35ab1cb0d5d4ff5c836f9.jpg')).buffer(),}} 
      }) 
 }
 handler.command = /^(donasi|dns)$/i
