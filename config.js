@@ -37,10 +37,10 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
 global.pdana = '0882007324217'
-global.povo = '-'
-global.pgopay = '08#########'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.povo = '0882007324217'
+global.pgopay = '0882007324217'
+global.ppulsa = '0882007324217'
+global.ppulsa2 = '0882007324217'
 global.psaweria = 'https://saweria.co/krishosting'
 
 /*============== NOMOR ==============*/
@@ -52,11 +52,11 @@ global.nameown = 'ᴹᴿ᭄ Kris Hosting ×፝֟͜×'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288279268363', 'ᴹᴿ᭄ Kris Hosting ×፝֟͜×', 'true']
+  ['6285786211623', 'ᴹᴿ᭄ Kris Hosting ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['0882007324217'] // Want some help?
+global.prems = ['0882007324217'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -96,15 +96,15 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'KrisBotz-Mdラ | By ᴹᴿ᭄ Kris Hosting ×፝֟͜×' //Main Watermark
+global.wm = 'KrisBotz-Mdラ' //Main Watermark
 global.wm2 = 'ᴹᴿ᭄ Kris Hosting ×፝֟͜×'
-global.wm3 = 'KrisBotz-MDラ | By ᴹᴿ᭄ Kris Hosting ×፝֟͜×'
+global.wm3 = 'KrisBotz-MDラ'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `KrisBotz | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ Kris Hosting ×፝֟͜×' 
+global.author = 'Kris Hosting ×፝֟͜×' 
 global.packname = 'Kris Hosting ×፝֟͜×'
-global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
+global.danied = '✘ 𝗘𝗥𝗢𝗥 ANJAY'
 
 
 /*============== LOGO ==============*/
