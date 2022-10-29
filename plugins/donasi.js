@@ -19,12 +19,12 @@ let handler = async (m, { conn, text, usedPrefix }) => {
 │└────────────┈ ⳹
 └─「 *Donasi Via Berikut* 」  
 │
-│ ➪ Gopay : ${global.𝗉gopay}
-│ ➪ Dana : ${global.𝗉dana}
-│ ➪ Pulsa : ${global.𝗉pulsa}
-│ ➪ Pulsa : ${global.𝗉pulsa2}
-│ ➪ ovo : ${global.𝗉𝗈𝗏𝗈}
-│ ➪ Saweria : ${global.𝗉saweria}
+│ ➪ Gopay : 0882007324217
+│ ➪ Dana : 0882007324217
+│ ➪ Pulsa : 0882007324217
+│ ➪ Pulsa : 0882007324217
+│ ➪ ovo : 0882007324217
+│ ➪ Saweria : 0882007324217
 ╰───────────────❏
 │
 └─「 *Messege* 」       
@@ -52,6 +52,6 @@ let handler = async (m, { conn, text, usedPrefix }) => {
 handler.help = ['donasi']
 handler.tags = ['info']
 
-handler.command = /^(nyumbang|donasi)$/i
+handler.command = /^(donasi)$/i
 
 export default handler
