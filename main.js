@@ -86,7 +86,7 @@ global.loadDatabase = async function loadDatabase() {
 }
 loadDatabase()
 
-global.authFile = `${opts._[0] || 'KingOfBear'}.data.json`
+global.authFile = `${opts._[0] || 'krisss'}.data.json`
 const { state, saveState } = store.useSingleFileAuthState(global.authFile)
 
 const connectionOptions = {
