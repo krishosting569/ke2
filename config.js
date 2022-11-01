@@ -44,19 +44,19 @@ global.ppulsa2 = '0882007324217'
 global.psaweria = 'https://saweria.co/krishosting'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882007324217'
-global.nomorown = '62895711966868'
-global.namebot = 'Rizzky-Md'
+global.nomorbot = '6289519936373'
+global.nomorown = '6289519936373'
+global.namebot = 'Ato XENN-BOT'
 global.nameown = '𝘙𝘐𝘻𝘻𝘬𝘺 𝘚𝘵𝘰𝘳𝘦'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895711966868', '𝘙𝘪𝘻𝘻𝘬𝘺 𝘚𝘵𝘰𝘳𝘦', 'true']
+  ['6289519936373', '𝘙𝘪𝘻𝘻𝘬𝘺 𝘚𝘵𝘰𝘳𝘦', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['62895711966868'] // Want some help?
-global.prems = ['62895711966868'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['6289519936373'] // Want some help?
+global.prems = ['6289519936373'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Rizzky-Md' //Main Watermark
-global.wm2 = 'Rizzky-Md'
-global.wm3 = 'Rizzky-Md'
+global.wm = 'Ato XENN-BOT' //Main Watermark
+global.wm2 = 'Ato XENN-BOT'
+global.wm3 = 'Ato XENN-BOT'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `KrisBotz | ʙʏ ${global.nameown}`
-global.author = 'Rizzky-Md' 
-global.packname = 'Rizzky-Md'
+global.titlebot = `Ato XENN-BOT | ʙʏ ${global.nameown}`
+global.author = 'Ato XENN-BOT' 
+global.packname = 'Ato XENN-BOT'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 ANJAY'
 
 
@@ -119,10 +119,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Kris BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ Kris Hosting ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/9ece00938d66e45718679.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Rizzky 𝘚𝘵𝘰𝘳𝘦'
+global.nameowner = 'XenoN Store'
 global.umurowner = '22'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285786211623'
+global.nomorowner = 'wa.me/6289519936373'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
@@ -372,7 +372,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `King Of Bear`
+global.stickauth = `XenoN Store`
 
 global.multiplier = 38 // The higher, The harder levelup
 
