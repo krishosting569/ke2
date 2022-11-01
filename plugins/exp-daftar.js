@@ -50,7 +50,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
 
 const listMessage = {
   text: `│›Please select your age at the bottom button...`,
-  footer: `┗ *ʏᴏᴜʀ ɴᴀᴍᴇ:* ${conn.getName(m.sender)}\n<❔>  BOT PRIVATE\n⚘ ᴄʀᴇᴀᴛᴇ ʙʏ ᴹᴿ᭄ Kris Hosting`,
+  footer: `┗ *ʏᴏᴜʀ ɴᴀᴍᴇ:* ${conn.getName(m.sender)}\n<❔>  BOT PRIVATE\n⚘ ᴄʀᴇᴀᴛᴇ ʙʏ Xenon Store`,
   title: "▢━━━━「 Registration 」━━━━▢",
   buttonText: "ഒ Register ഒ",
   sections
@@ -81,7 +81,7 @@ const listMessage = {
 │▸ *sɴ:* ${sn}
 ╰═┅═━––––––๑
 
-ꜱᴜʙꜱᴄʀɪʙᴇ ʏᴛ: Kris Hosting
+ꜱᴜʙꜱᴄʀɪʙᴇ ʏᴛ: Xenon Store
 `
   let buttonMessage= {
 'document':{'url':'https://youtu.be/PeLEpmoiO4U'},
@@ -98,7 +98,7 @@ const listMessage = {
 'previewType':'pdf',
 'title':global.titlebot,
 'body':global.titlebot,
-'thumbnail':await(await fetch('https://telegra.ph/file/9ece00938d66e45718679.jpg')).buffer(),
+'thumbnail':await(await fetch('https://telegra.ph/file/d70c18c4399bb0073179e.jpg')).buffer(),
 'sourceUrl':'https://youtu.be/PeLEpmoiO4U'}},
 'caption':cap,
 'footer':botdate,
