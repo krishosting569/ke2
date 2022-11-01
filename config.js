@@ -45,18 +45,18 @@ global.psaweria = 'https://saweria.co/krishosting'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62882007324217'
-global.nomorown = '6285786211623'
-global.namebot = 'KrisBotz-Md'
-global.nameown = 'ᴹᴿ᭄ Kris Hosting ×፝֟͜×'
+global.nomorown = '62895711966868'
+global.namebot = 'Rizzky-Md'
+global.nameown = '𝘙𝘐𝘻𝘻𝘬𝘺 𝘚𝘵𝘰𝘳𝘦'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285786211623', 'ᴹᴿ᭄ Kris Hosting ×፝֟͜×', 'true']
+  ['62895711966868', '𝘙𝘪𝘻𝘻𝘬𝘺 𝘚𝘵𝘰𝘳𝘦', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['0882007324217'] // Want some help?
-global.prems = ['0882007324217'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['62895711966868'] // Want some help?
+global.prems = ['62895711966868'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
