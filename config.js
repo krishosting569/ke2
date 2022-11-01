@@ -47,12 +47,12 @@ global.psaweria = 'https://saweria.co/krishosting'
 global.nomorbot = '6289519936373'
 global.nomorown = '6289519936373'
 global.namebot = 'Ato XENN-BOT'
-global.nameown = '𝘙𝘐𝘻𝘻𝘬𝘺 𝘚𝘵𝘰𝘳𝘦'
+global.nameown = 'Xenon Store'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289519936373', '𝘙𝘪𝘻𝘻𝘬𝘺 𝘚𝘵𝘰𝘳𝘦', 'true']
+  ['6289519936373', 'Xenon Store', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['6289519936373'] // Want some help?
@@ -110,14 +110,14 @@ global.danied = '✘ 𝗘𝗥𝗢𝗥 ANJAY'
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/9ece00938d66e45718679.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/9ece00938d66e45718679.jpg'
-global.giflogo = 'https://telegra.ph/file/d882a8ad33368fb0e02e0.jpg'
-global.giflogo2 = 'https://telegra.ph/file/d882a8ad33368fb0e02e0.jpg'
+global.giflogo = 'https://telegra.ph/file/d70c18c4399bb0073179e.jpg'
+global.giflogo2 = 'https://telegra.ph/file/d70c18c4399bb0073179e.jpg'
 global.thumbs = ['https://telegra.ph/file/9ece00938d66e45718679.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Kris BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ Kris Hosting ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/9ece00938d66e45718679.jpg'
+global.intro = 'https://telegra.ph/file/d70c18c4399bb0073179e.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'XenoN Store'
 global.umurowner = '22'
