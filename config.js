@@ -96,22 +96,22 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'KrisBotz-Mdラ' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ Kris Hosting ×፝֟͜×'
-global.wm3 = 'KrisBotz-MDラ'
+global.wm = 'Rizzky-Md' //Main Watermark
+global.wm2 = 'Rizzky-Md'
+global.wm3 = 'Rizzky-Md'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `KrisBotz | ʙʏ ${global.nameown}`
-global.author = 'Kris Hosting ×፝֟͜×' 
-global.packname = 'Kris Hosting ×፝֟͜×'
+global.author = 'Rizzky-Md' 
+global.packname = 'Rizzky-Md'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 ANJAY'
 
 
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/9ece00938d66e45718679.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/9ece00938d66e45718679.jpg'
-global.giflogo = 'https://telegra.ph/file/35ab1cb0d5d4ff5c836f9.jpg'
-global.giflogo2 = 'https://telegra.ph/file/9ece00938d66e45718679.jpg'
+global.giflogo = 'https://telegra.ph/file/d882a8ad33368fb0e02e0.jpg'
+global.giflogo2 = 'https://telegra.ph/file/d882a8ad33368fb0e02e0.jpg'
 global.thumbs = ['https://telegra.ph/file/9ece00938d66e45718679.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
@@ -119,7 +119,7 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Kris BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ Kris Hosting ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/9ece00938d66e45718679.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ Kris Hosting ×፝֟͜×'
+global.nameowner = 'Rizzky 𝘚𝘵𝘰𝘳𝘦'
 global.umurowner = '22'
 global.asalowner = 'Amerika Serikat, New York'
 global.nomorowner = 'wa.me/6285786211623'
